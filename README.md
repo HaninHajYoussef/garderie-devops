@@ -42,7 +42,9 @@ http://192.168.56.10:3000
 ![Vagrant](screenshots/vagrant.png)
 ![Ansible](screenshots/ansible.png)
 ![Conteneurs](screenshots/containers.png)
-![Navigateur](screenshots/browser.png)
+![Navigateur](screenshots/browser.jpg)
 ![Docker dans la VM](screenshots/dockerInVm.png)
 
 ![Docker dans la VM](screenshots/dockerInVm.png)
+
+**Acces depuis une autre machine :** http://192.168.1.157:3000 (meme reseau Wi-Fi)
